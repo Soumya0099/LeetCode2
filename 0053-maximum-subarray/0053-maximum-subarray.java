@@ -9,10 +9,7 @@ class Solution {
             currentsum+=nums[i];
             maxsum=Math.max(maxsum,currentsum);
 
-            if(currentsum<0)
-            {
-                currentsum=0;
-            }
+            currentsum=currentsum<=0?0:currentsum;
         }
         return maxsum;
         
