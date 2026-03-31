@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soumya0099/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Soumya0099/LeetCode2/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soumya0099/LeetCode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soumya0099/LeetCode2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soumya0099/LeetCode2/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soumya0099/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soumya0099/LeetCode2/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Soumya0099/LeetCode2/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soumya0099/LeetCode2/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
