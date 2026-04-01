@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soumya0099/LeetCode2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Soumya0099/LeetCode2/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Soumya0099/LeetCode2/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Soumya0099/LeetCode2/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Soumya0099/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya0099/LeetCode2/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Soumya0099/LeetCode2/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
