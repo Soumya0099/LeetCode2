@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya0099/LeetCode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soumya0099/LeetCode2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Soumya0099/LeetCode2/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Soumya0099/LeetCode2/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Soumya0099/LeetCode2/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Soumya0099/LeetCode2/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Soumya0099/LeetCode2/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Soumya0099/LeetCode2/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Soumya0099/LeetCode2/tree/master/0238-product-of-array-except-self) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Soumya0099/LeetCode2/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Soumya0099/LeetCode2/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
