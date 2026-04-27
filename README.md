@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soumya0099/LeetCode2/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soumya0099/LeetCode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Soumya0099/LeetCode2/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Soumya0099/LeetCode2/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Soumya0099/LeetCode2/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soumya0099/LeetCode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Soumya0099/LeetCode2/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Soumya0099/LeetCode2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Soumya0099/LeetCode2/tree/master/0443-string-compression) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Soumya0099/LeetCode2/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soumya0099/LeetCode2/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
