@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Soumya0099/LeetCode2/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Soumya0099/LeetCode2/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya0099/LeetCode2/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/Soumya0099/LeetCode2/tree/master/1672-richest-customer-wealth) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soumya0099/LeetCode2/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Soumya0099/LeetCode2/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Soumya0099/LeetCode2/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
