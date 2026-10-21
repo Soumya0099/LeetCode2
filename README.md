@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Soumya0099/LeetCode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Soumya0099/LeetCode2/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Soumya0099/LeetCode2/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Soumya0099/LeetCode2/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Soumya0099/LeetCode2/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Soumya0099/LeetCode2/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Soumya0099/LeetCode2/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Soumya0099/LeetCode2/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Soumya0099/LeetCode2/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Soumya0099/LeetCode2/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
